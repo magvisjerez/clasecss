@@ -1,16 +1,28 @@
-h1{
+h1 {
     font-size: 60px;
 }
-h3{
+
+h3 {
     font-size: 100px;
 }
-.familiaTexto{
+
+.familiaTexto {
     font-family: "papyrus";
     font-size: 2em;
     color: #333CFF;
     text-align: justify;
 }
-body{
+
+.fondoprincipal {
     background-color: chocolate;
 }
+
+.fondoindex {
+    background-color: green;
+}
+
+.fondopagina1 {
+    background-color: blue;
+}
+
 //
