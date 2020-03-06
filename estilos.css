@@ -29,4 +29,12 @@ a {
     color: crimson;
 }
 
-//
+.imagenfondo {
+    background-image: url(img/medellin.jpg);
+    height: 1000px;
+    background-attachment: fixed;
+}
+
+.textorojo {
+    color: red;
+}
